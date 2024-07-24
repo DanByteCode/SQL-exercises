@@ -37,7 +37,7 @@
 
 
 -- 13. List every match with the goals scored by each team as shown.
-
+/* TIP: You need use LEFT JOIN */
 
 
 -- QUIZ: https://sqlzoo.net/wiki/JOIN_Quiz
